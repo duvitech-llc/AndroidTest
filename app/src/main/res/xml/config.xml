@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="com.emmoco.emgap" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AndroidLaunchMode" value="singleTop" />
+    <name>Em-Gap</name>
+    <content src="em-gap.html" />
+    <access origin="*" />
+    <feature name="App">
+        <param name="android-package" value="org.apache.cordova.App" />
+    </feature>
+    <feature name="Command">
+        <param name="android-package" value="com.emmoco.emgap.Command" />
+    </feature>
+    <feature name="Mailbox">
+        <param name="android-package" value="com.emmoco.emgap.Mailbox" />
+    </feature>
+</widget>

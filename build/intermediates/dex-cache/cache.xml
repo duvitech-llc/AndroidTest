@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\George\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\George\StudioProjects\AndroidTest\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-4881b298676bf6b1795a38ccd4583b3cfe76477f.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\StudioProjects\AndroidTest\app\libs\cordova.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5cadb23061b5883d246c6fd840d5c3f0ceebabdf">
+        <dex dex="C:\Users\George\StudioProjects\AndroidTest\app\build\intermediates\pre-dexed\debug\cordova-26c9ff8b57967ffed535ffb27173f408be444c0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\StudioProjects\AndroidTest\app\libs\framework-core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e6e1662d983650da93ea603af90d1f4ebbe7adf">
+        <dex dex="C:\Users\George\StudioProjects\AndroidTest\app\build\intermediates\pre-dexed\debug\framework-core-bbd4e6e0a983a7953c9449a16b3da83a26f31984.jar" />
+    </item>
+
+</items>
